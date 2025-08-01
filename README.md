@@ -19,7 +19,7 @@ Welcome to my **personal portfolio website** — a fully responsive single-page 
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live site](https://yourusername.github.io/your-repo-name/)  
+👉 [Click here to view the live site](https://dinesh566734.github.io/portfolio/portfolio-html-main/src/index.html)  
 *(Replace with your actual GitHub Pages URL)*
 
 ---

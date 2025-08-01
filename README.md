@@ -26,3 +26,11 @@ Welcome to my **personal portfolio website** — a fully responsive single-page 
 
 ## 📁 Project Structure
 
+portfolio-main/
+├── portfolio-html-main/
+│ └── src/
+│ ├── index.html
+│ ├── styles.css
+│ ├── script.js
+│ └── [assets...]
+├── resume21.pdf
